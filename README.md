@@ -52,7 +52,8 @@
 
 ```text
 
-be1faac 2024-11-14 | Добавил изображение (HEAD -> report, origin/report) [4319 Задорожный А.В]
+9a61b5d 2024-11-14 | Добавил README (HEAD -> report, origin/report) [4319 Задорожный А.В]
+be1faac 2024-11-14 | Добавил изображение [4319 Задорожный А.В]
 79d8699 2024-11-14 | Изменения в feature-branch (master) [4319 Задорожный А.В]
 0bf51de 2024-11-14 | Add files via upload (origin/master, origin/HEAD) [Alexey]
 921f53b 2020-11-21 | Обновление информации [Kurtyanik]
