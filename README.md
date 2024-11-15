@@ -50,9 +50,9 @@
 
 15. Достал историю
 
-'''bash
+```bash
 git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
-'''
+```
 
 ## git log
 
