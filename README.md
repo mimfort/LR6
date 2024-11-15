@@ -48,6 +48,12 @@
 14. Перехожу в новую ветку для выгрузки README.md
 ![Перехожу в новую ветку для выгрузки readme.md](images/14.png)
 
+15. Достал историю
+
+'''bash
+git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
+'''
+
 ## git log
 
 ```text
